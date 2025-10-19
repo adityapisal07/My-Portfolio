@@ -1,4 +1,4 @@
-# Personal Website - Satyam Yadav
+# Personal Website - Aditya Pisal
 
 This repository contains the code for my personal website. It showcases my work related to web development and other projects.
 
